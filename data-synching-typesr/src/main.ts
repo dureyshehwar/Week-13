@@ -1,4 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.css'
+import { Product } from './interfaces';
+import { fetchProducts, displayProducts, addProduct, deleteProduct } from './products';
+
 
 document.addEventListener('DOMContentLoaded', async () => {
 const productsContainer = document.querySelector('.row') as HTMLDivElement;

@@ -1,27 +1,25 @@
 {
-    "products": [
-      {
-        "name": "Laptop",
-        "description": "communication",
-        "price": 1000,
-        "image": "/assets/laptop.jpg",
-        "id": 1
-      },
-    
-      {
-        "name": "Phones",
-        "description": "communication",
-        "price": 250,
-        "image": "./assets/phones.jpg",
-        "id": 2
-      },
-    
-      {
-        "name": "HeadPhones",
-        "description": "communication",
-        "price": 150,
-        "image": "./assets/headphones.jpg",
-        "id": 3
-      }
-    ]
-  }
+  "products": [
+    {
+      "name": "Laptop",
+      "description": "communication",
+      "price": 1000,
+      "image": "/assets/laptop.jpg",
+      "id": 1
+    },
+    {
+      "name": "Phones",
+      "description": "communication",
+      "price": 250,
+      "image": "./assets/phones.jpg",
+      "id": 2
+    },
+    {
+      "name": "HeadPhones",
+      "description": "communication",
+      "price": 150,
+      "image": "./assets/headphones.jpg",
+      "id": 3
+    }
+  ]
+}
